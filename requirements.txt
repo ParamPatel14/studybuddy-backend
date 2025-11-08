@@ -8,5 +8,5 @@ pydantic==2.5.0
 google-generativeai==0.3.1
 groq==0.4.1
 PyPDF2==3.0.1
-pillow==10.1.0 --prefer-binary
+pillow==10.3.0 --prefer-binary
 requests==2.31.0
