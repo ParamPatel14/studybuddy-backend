@@ -1,0 +1,72 @@
+{
+  "company": "Google",
+  "total_questions": 600,
+  "difficulty_distribution": {
+    "easy": 15,
+    "medium": 50,
+    "hard": 35
+  },
+  "topics": {
+    "Arrays": {
+      "frequency": "very_high",
+      "questions": [
+        "Two Sum",
+        "Median of Two Sorted Arrays",
+        "Merge Intervals",
+        "Next Permutation",
+        "Jump Game"
+      ]
+    },
+    "Graphs": {
+      "frequency": "very_high",
+      "questions": [
+        "Number of Islands",
+        "Word Ladder II",
+        "Alien Dictionary",
+        "Minimum Height Trees",
+        "Graph Valid Tree"
+      ]
+    },
+    "Dynamic Programming": {
+      "frequency": "very_high",
+      "questions": [
+        "Edit Distance",
+        "Regular Expression Matching",
+        "Burst Balloons",
+        "Dungeon Game",
+        "Perfect Squares"
+      ]
+    },
+    "Trees": {
+      "frequency": "high",
+      "questions": [
+        "Binary Tree Maximum Path Sum",
+        "Serialize and Deserialize Binary Tree",
+        "Construct Binary Tree from Preorder and Inorder",
+        "Flatten Binary Tree to Linked List"
+      ]
+    },
+    "Math": {
+      "frequency": "high",
+      "questions": [
+        "Pow(x, n)",
+        "Sqrt(x)",
+        "Divide Two Integers",
+        "Count Primes"
+      ]
+    }
+  },
+  "system_design": [
+    "Design Google Maps",
+    "Design YouTube",
+    "Design Gmail",
+    "Design Google Search",
+    "Design Google Drive"
+  ],
+  "behavioral_focus": [
+    "Googleyness",
+    "Problem-solving approach",
+    "Leadership",
+    "Collaboration"
+  ]
+}

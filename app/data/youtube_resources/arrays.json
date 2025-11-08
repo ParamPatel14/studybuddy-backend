@@ -1,0 +1,27 @@
+{
+  "topic": "Arrays",
+  "resources": [
+    {
+      "title": "Arrays Complete Course - Take U Forward",
+      "creator": "Take U Forward (Striver)",
+      "url": "https://www.youtube.com/watch?v=37E9ckMDdTk",
+      "duration": "4:15:00",
+      "difficulty": "beginner-intermediate",
+      "views": "1.2M",
+      "rating": 5,
+      "description": "Complete arrays playlist covering basics to advanced",
+      "thumbnail": "https://img.youtube.com/vi/37E9ckMDdTk/maxresdefault.jpg"
+    },
+    {
+      "title": "Array Data Structure - Jenny's Lectures",
+      "creator": "Jenny's Lectures CS IT",
+      "url": "https://www.youtube.com/watch?v=AT14lCXuMKI",
+      "duration": "45:00",
+      "difficulty": "beginner",
+      "views": "800K",
+      "rating": 5,
+      "description": "Simple array concepts with examples",
+      "thumbnail": "https://img.youtube.com/vi/AT14lCXuMKI/maxresdefault.jpg"
+    }
+  ]
+}

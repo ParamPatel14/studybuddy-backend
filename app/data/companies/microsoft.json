@@ -1,0 +1,69 @@
+{
+  "company": "Microsoft",
+  "total_questions": 450,
+  "difficulty_distribution": {
+    "easy": 25,
+    "medium": 55,
+    "hard": 20
+  },
+  "topics": {
+    "Arrays": {
+      "frequency": "high",
+      "questions": [
+        "Two Sum",
+        "Merge Intervals",
+        "Subarray Sum Equals K",
+        "Find Peak Element"
+      ]
+    },
+    "Strings": {
+      "frequency": "high",
+      "questions": [
+        "Longest Palindromic Substring",
+        "Minimum Window Substring",
+        "Group Anagrams",
+        "Valid Parentheses"
+      ]
+    },
+    "LinkedList": {
+      "frequency": "medium",
+      "questions": [
+        "Reverse Linked List",
+        "Merge K Sorted Lists",
+        "LRU Cache",
+        "Copy List with Random Pointer"
+      ]
+    },
+    "Trees": {
+      "frequency": "high",
+      "questions": [
+        "Lowest Common Ancestor",
+        "Binary Tree Level Order Traversal",
+        "Validate BST",
+        "Inorder Successor in BST"
+      ]
+    },
+    "Dynamic Programming": {
+      "frequency": "medium",
+      "questions": [
+        "Longest Common Subsequence",
+        "Coin Change",
+        "House Robber",
+        "Decode Ways"
+      ]
+    }
+  },
+  "system_design": [
+    "Design Microsoft Teams",
+    "Design OneDrive",
+    "Design Azure",
+    "Design Xbox Live",
+    "Design Outlook"
+  ],
+  "behavioral_focus": [
+    "Growth mindset",
+    "Customer focus",
+    "Diversity and inclusion",
+    "One Microsoft"
+  ]
+}

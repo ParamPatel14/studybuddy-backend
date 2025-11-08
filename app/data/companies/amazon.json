@@ -1,0 +1,82 @@
+{
+  "company": "Amazon",
+  "total_questions": 500,
+  "difficulty_distribution": {
+    "easy": 20,
+    "medium": 55,
+    "hard": 25
+  },
+  "topics": {
+    "Arrays": {
+      "frequency": "high",
+      "questions": [
+        "Two Sum",
+        "3Sum",
+        "Container With Most Water",
+        "Trapping Rain Water",
+        "Product of Array Except Self"
+      ]
+    },
+    "Trees": {
+      "frequency": "high",
+      "questions": [
+        "Validate BST",
+        "Diameter of Binary Tree",
+        "Lowest Common Ancestor",
+        "Serialize and Deserialize Binary Tree",
+        "Maximum Path Sum"
+      ]
+    },
+    "Graphs": {
+      "frequency": "high",
+      "questions": [
+        "Number of Islands",
+        "Course Schedule",
+        "Word Ladder",
+        "Clone Graph",
+        "Network Delay Time"
+      ]
+    },
+    "Dynamic Programming": {
+      "frequency": "very_high",
+      "questions": [
+        "Climbing Stairs",
+        "Coin Change",
+        "Longest Increasing Subsequence",
+        "Word Break",
+        "Maximum Subarray"
+      ]
+    },
+    "Strings": {
+      "frequency": "medium",
+      "questions": [
+        "Longest Substring Without Repeating Characters",
+        "Valid Anagram",
+        "Group Anagrams",
+        "Longest Palindromic Substring"
+      ]
+    },
+    "LinkedList": {
+      "frequency": "medium",
+      "questions": [
+        "Reverse Linked List",
+        "Merge Two Sorted Lists",
+        "Add Two Numbers",
+        "Copy List with Random Pointer"
+      ]
+    }
+  },
+  "system_design": [
+    "Design Amazon's recommendation system",
+    "Design Prime Video streaming",
+    "Design AWS S3",
+    "Design shopping cart system",
+    "Design inventory management"
+  ],
+  "behavioral_focus": [
+    "Leadership principles",
+    "Customer obsession",
+    "Deliver results",
+    "Think big"
+  ]
+}

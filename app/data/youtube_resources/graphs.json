@@ -1,0 +1,38 @@
+{
+  "topic": "Graphs",
+  "resources": [
+    {
+      "title": "Graph Series Complete - Take U Forward",
+      "creator": "Take U Forward (Striver)",
+      "url": "https://www.youtube.com/watch?v=M3_pLsDdeuU",
+      "duration": "5:00:00",
+      "difficulty": "beginner-advanced",
+      "views": "1.5M",
+      "rating": 5,
+      "description": "Complete graph algorithms with code and explanations",
+      "thumbnail": "https://img.youtube.com/vi/M3_pLsDdeuU/maxresdefault.jpg"
+    },
+    {
+      "title": "Graph Theory Algorithms - William Fiset",
+      "creator": "William Fiset",
+      "url": "https://www.youtube.com/watch?v=09_LlHjoEiY",
+      "duration": "4:00:00",
+      "difficulty": "intermediate-advanced",
+      "views": "800K",
+      "rating": 5,
+      "description": "Detailed graph theory and algorithms explained",
+      "thumbnail": "https://img.youtube.com/vi/09_LlHjoEiY/maxresdefault.jpg"
+    },
+    {
+      "title": "BFS & DFS Explained - Abdul Bari",
+      "creator": "Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=pcKY4hjDrxk",
+      "duration": "30:00",
+      "difficulty": "beginner",
+      "views": "1M",
+      "rating": 5,
+      "description": "Clear explanation of graph traversal algorithms",
+      "thumbnail": "https://img.youtube.com/vi/pcKY4hjDrxk/maxresdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "topic": "Dynamic Programming",
+  "resources": [
+    {
+      "title": "Dynamic Programming Complete Course - Take U Forward",
+      "creator": "Take U Forward (Striver)",
+      "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY",
+      "duration": "8:00:00",
+      "difficulty": "beginner-advanced",
+      "views": "2M",
+      "rating": 5,
+      "description": "Most comprehensive DP playlist with all patterns explained",
+      "thumbnail": "https://img.youtube.com/vi/tyB0ztf0DNY/maxresdefault.jpg"
+    },
+    {
+      "title": "Dynamic Programming - Aditya Verma",
+      "creator": "Aditya Verma",
+      "url": "https://www.youtube.com/watch?v=nqowUJzG-iM",
+      "duration": "6:00:00",
+      "difficulty": "intermediate",
+      "views": "3M",
+      "rating": 5,
+      "description": "Pattern-based DP learning approach, highly recommended",
+      "thumbnail": "https://img.youtube.com/vi/nqowUJzG-iM/maxresdefault.jpg"
+    },
+    {
+      "title": "DP for Beginners - Abdul Bari",
+      "creator": "Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=oBt53YbR9Kk",
+      "duration": "45:00",
+      "difficulty": "beginner",
+      "views": "1.5M",
+      "rating": 5,
+      "description": "Clear introduction to Dynamic Programming with examples",
+      "thumbnail": "https://img.youtube.com/vi/oBt53YbR9Kk/maxresdefault.jpg"
+    }
+  ]
+}
